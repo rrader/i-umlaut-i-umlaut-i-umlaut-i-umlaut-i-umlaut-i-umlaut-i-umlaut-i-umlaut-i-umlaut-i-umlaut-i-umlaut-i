@@ -2,6 +2,6 @@ import sys
 
 try:
     while True:
-        sys.stdout.write('e')
+        sys.stdout.write('ї')
 except KeyboardInterrupt:
-    sys.exit('e')
+    sys.exit('ї')
